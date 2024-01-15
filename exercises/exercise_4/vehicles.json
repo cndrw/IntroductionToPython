@@ -14,7 +14,7 @@
       "rolling_resistance_coefficient": 0.013
     },
     {
-      "typo": "motorcycle",
+      "type": "motorcycle",
       "mass": 200,
       "drag_coefficient": 0.57,
       "cross_sectional_area": 0.79,
